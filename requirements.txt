@@ -1,11 +1,10 @@
 git+https://github.com/huggingface/transformers.git@v4.57.1
-webdriver-manager
 huggingface_hub
 python-dotenv
 sentencepiece
 qwen-vl-utils
-gradio_modal
-torchvision 
+torch==2.8.0
+torchvision
 matplotlib
 accelerate
 num2words
@@ -15,5 +14,4 @@ pillow
 openai
 spaces
 einops
-torch
 peft
